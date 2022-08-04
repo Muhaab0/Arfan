@@ -469,7 +469,7 @@ a {
 
 .services .serv-boxes {
     display: grid;
-    grid-template-columns: repeat(auto-fill , minmax(300px , 1fr));
+    grid-template-columns: repeat(auto-fill , minmax(270px , 1fr));
     margin-top: 50px;
     margin-left: 60px;
     margin-right: 60px;
